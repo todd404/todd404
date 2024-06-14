@@ -48,10 +48,13 @@
     ],
     "workExpList": [
         {
-            "company_name": "数沃信息科技有限公司",
+            "work_time": [
+                "2023.09",
+                "2023.11"
+            ],
+            "company_name": "汕头市诚昌隆燃料有限公司",
             "department_name": "",
-            "work_time": "2023.03,2023.05",
-            "work_desc": "前端实习生。使用 Vue 来实现平台功能和逻辑，再用 ECharts 来对数据挖掘分析后的可视化结果进行展示",
+            "work_desc": "前端实习生。\n1.负责公司已有管理系统的前端维护\n2.使用 Echart  开发数据可视化页面",
             "dataIndex": 0
         }
     ],
@@ -100,7 +103,7 @@
     "workList": [
         {
             "work_name": "Online Judge在线算法题判题平台",
-            "work_desc": " 一个模仿 leetcode  的在线判题网站项目，主要技术栈有：vue.js，nginx，spring boot，spring security，RabbitMQ，redis，MySQL 。使用 element及 antd  组件库。 \n实现了C++以及 Java  的在线判题，并且能够在线运行用户提交的用例。\n解决了大部分 oj  网站C++语言编译以及运行时错误提示不够友好的问题，网站能够指出C++编译错误以及运行时错误并且能够指出错误代码所在。 \n网站同时提供了评论区、私信这类社区功能，以及单选题和编程题混合的测验。\n后台能够在线添加编程题，并且提供自动生成随机测试用例的工具。\n后台提供测验成绩 excel  下载。",
+            "work_desc": " 一个模仿 leetcode  的在线判题网站项目，主要技术栈有：vue.js，nginx，spring boot，spring security，RabbitMQ，redis，MySQL 。使用 element及 antd  组件库。 实现了C++以及 Java  的在线判题，并且能够在线运行用户提交的用例。解决了大部分 oj  网站C++语言编译以及运行时错误提示不够友好的问题，网站能够指出C++编译错误以及运行时错误能够指出错误代码所在。 网站同时提供了评论区、私信这类社区功能，以及单选题和编程题混合的测验。后台能够在线添加编程题，并且提供自动生成随机测试用例的工具。后台提供测验成绩 excel  下载。",
             "visit_link": "https://oj.todd404.asia/"
         }
     ],
