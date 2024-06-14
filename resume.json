@@ -1,0 +1,114 @@
+{
+    "titleNameMap": {
+        "educationList": "教育背景",
+        "workExpList": "工作经历",
+        "projectList": "项目经历",
+        "skillList": "个人技能",
+        "awardList": "更多信息",
+        "workList": "个人作品",
+        "aboutme": "自我介绍"
+    },
+    "avatar": {
+        "hidden": false,
+        "src": "https://todd404.asia/static/xjpic.jpg",
+        "shape": "square"
+    },
+    "profile": {
+        "name": "吴涛",
+        "email": "toddwu404@outlook.com",
+        "mobile": "13048758964",
+        "github": "https://github.com/todd404",
+        "zhihu": "https://www.zhihu.com/people/13680748051",
+        "workExpYear": "",
+        "workPlace": "",
+        "positionTitle": ""
+    },
+    "educationList": [
+        {
+            "edu_time": [
+                "2020.09.01",
+                "2024.06.30"
+            ],
+            "school": "广东石油化工学院",
+            "major": "计算机科学与技术",
+            "academic_degree": "本科",
+            "dataIndex": 0
+        }
+    ],
+    "awardList": [
+        {
+            "award_info": "英语 CET4",
+            "award_time": "2022",
+            "dataIndex": 0
+        },
+        {
+            "award_time": "2016",
+            "award_info": "noip 初中组 惠州市一等奖"
+        }
+    ],
+    "workExpList": [
+        {
+            "company_name": "数沃信息科技有限公司",
+            "department_name": "",
+            "work_time": "2023.03,2023.05",
+            "work_desc": "前端实习生。使用 Vue 来实现平台功能和逻辑，再用 ECharts 来对数据挖掘分析后的可视化结果进行展示",
+            "dataIndex": 0
+        }
+    ],
+    "skillList": [
+        {
+            "skill_name": "HTML、CSS、JS",
+            "skill_level": 100,
+            "skill_desc": "HTML、CSS、JS",
+            "dataIndex": 0
+        },
+        {
+            "skill_name": "Vue、React",
+            "skill_level": 100,
+            "skill_desc": "Vue、React以及相关组件",
+            "dataIndex": 1
+        },
+        {
+            "skill_name": "Java",
+            "skill_level": 90,
+            "skill_desc": "Java",
+            "dataIndex": 2
+        },
+        {
+            "skill_name": "Spring Boot",
+            "skill_level": 80,
+            "skill_desc": "Spring Boot"
+        },
+        {
+            "skill_name": "Golang",
+            "skill_level": 70,
+            "skill_desc": "Golang"
+        },
+        {
+            "skill_name": "桌面开发",
+            "skill_level": 60,
+            "skill_desc": "桌面开发（C++，C#，QT）",
+            "dataIndex": 5
+        },
+        {
+            "skill_name": "Python",
+            "skill_level": 60,
+            "skill_desc": "Python"
+        }
+    ],
+    "projectList": [],
+    "workList": [
+        {
+            "work_name": "Online Judge在线算法题判题平台",
+            "work_desc": " 一个模仿 leetcode  的在线判题网站项目，主要技术栈有：vue.js，nginx，spring boot，spring security，RabbitMQ，redis，MySQL 。使用 element及 antd  组件库。 \n实现了C++以及 Java  的在线判题，并且能够在线运行用户提交的用例。\n解决了大部分 oj  网站C++语言编译以及运行时错误提示不够友好的问题，网站能够指出C++编译错误以及运行时错误并且能够指出错误代码所在。 \n网站同时提供了评论区、私信这类社区功能，以及单选题和编程题混合的测验。\n后台能够在线添加编程题，并且提供自动生成随机测试用例的工具。\n后台提供测验成绩 excel  下载。",
+            "visit_link": "https://oj.todd404.asia/"
+        }
+    ],
+    "aboutme": {
+        "aboutme_desc": "1.擅长前端开发：使用过 React，Vue 构建项目，使用过 element，antd 等流行组件库，使用过 uni-app 搭建小程序。\n2.熟悉后端开发：使用过 spring boot，spring security，RabbitMQ，redis，mysql 等技术构建项目，同时使用过 nodejs，mongodb，python，golang 进行过小项目或小工具的开发。\n3.接触过桌面软件开发：能够使用C++，C#构建桌面软件，使用过 qt 开发小工具。\n4.熟悉计算机各方面知识，包括硬件，软件，网络，操作系统。\n5.熟悉 git ，熟悉使用 github 等代码托管平台。\n6.英语四级，擅长阅读计算机相关文档。\n7.在校获得过二等以及三等奖学金。"
+    },
+    "theme": {
+        "color": "#2f5785",
+        "tagColor": "#8bc34a"
+    }
+}
